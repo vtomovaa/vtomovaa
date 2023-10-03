@@ -7,7 +7,7 @@
     <a href="mailto:victoriatomova55@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="www.linkedin.com/in/victoria-tomova-4a345026a">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
