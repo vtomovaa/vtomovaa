@@ -5,7 +5,7 @@
 <h2  align="left">📫 How to reach me:</h2>
 <p align="left">
     <a href="mailto:victoriatomova55@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="www.linkedin.com/in/victoria-tomova-4a345026a">
+    <a href="https://www.linkedin.com/in/victoria-tomova-4a345026a/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 
