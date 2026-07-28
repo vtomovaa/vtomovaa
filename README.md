@@ -1,6 +1,6 @@
  ### :woman_technologist: About Me :
 - 👋 Hi, I’m Victoria Tomova!
-- 👀 I’m interested in JS Technologies, HTML & CSS and Angular.
+- 👀 I’m interested in JS Technologies, HTML & CSS, React.
 - 🌱 I’m currently learning in [SoftUni](https://github.com/SoftUni) JavaScript Development.
 <h2  align="left">📫 How to reach me:</h2>
 <p align="left">
@@ -14,7 +14,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
 </div>
 
 <!---
